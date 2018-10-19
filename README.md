@@ -1,0 +1,2 @@
+# smsfaster
+Kotlin permissions studies
